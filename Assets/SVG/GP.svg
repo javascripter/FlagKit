@@ -23,7 +23,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="GP">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
             <g id="Group-2" transform="translate(6.000000, 0.800000)">
                 <g id="Group" transform="translate(0.000000, 2.202017)">
                     <rect id="Rectangle-1381" fill="url(#linearGradient-2)" x="2" y="0" width="5" height="5" rx="0.25"></rect>

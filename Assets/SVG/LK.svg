@@ -31,7 +31,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="LK">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
             <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
             <path d="M8,1 L19.2493463,1 C19.6639209,1 20,1.33441405 20,1.75512566 L20,13.2448743 C20,13.6619187 19.6665269,14 19.2493463,14 L8,14 L8,1 Z" id="Rectangle-1568" fill="url(#linearGradient-3)"></path>
             <path d="M1,1.75512566 C1,1.33808127 1.34413815,1 1.75702667,1 L4,1 L4,14 L1.75702667,14 C1.33893239,14 1,13.665586 1,13.2448743 L1,1.75512566 Z" id="Rectangle-1568" fill="url(#linearGradient-4)"></path>

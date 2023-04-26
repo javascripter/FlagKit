@@ -19,10 +19,10 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="MG">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="7" width="21" height="8"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="0" width="21" height="7"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="7" height="15"></rect>
+            <rect id="Rectangle-2"  x="0" y="0" width="7" height="15"></rect>
         </g>
     </g>
 </svg>

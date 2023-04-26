@@ -19,7 +19,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="CD">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
             <g id="Group-2" transform="translate(-4.290000, -1.440000)">
                 <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="4.29377901" y="1.44262682" width="21" height="15"></rect>
                 <polygon id="Rectangle-69-Copy" fill="#FDD216" transform="translate(14.281566, 9.255882) rotate(153.000000) translate(-14.281566, -9.255882) " points="-0.2184339 6.25588182 28.7815661 6.25588182 28.7815661 12.2558818 -0.2184339 12.2558818"></polygon>
