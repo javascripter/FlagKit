@@ -22,14 +22,14 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="HT">
-            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="7"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="7" width="21" height="8"></rect>
             <g id="Rectangle-180" transform="translate(7.000000, 5.000000)">
                 <mask id="mask-5" fill="white">
                     <use xlink:href="#path-4"></use>
                 </mask>
-                <use id="Mask"  xlink:href="#path-4"></use>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
                 <g id="Rectangle-181" mask="url(#mask-5)">
                     <use fill="#AABCAE" fill-rule="evenodd" xlink:href="#path-6"></use>
                     <path stroke="#366C14" stroke-width="0.5" d="M0.25,5.1545085 L0.25,5.75 L6.75,5.75 L6.75,5.1545085 L5.78290166,4.67095933 C5.32616358,4.44259029 4.51229671,4.25 4.00104344,4.25 L2.99895656,4.25 C2.48310198,4.25 1.67798094,4.44051803 1.21709834,4.67095933 L0.25,5.1545085 Z"></path>

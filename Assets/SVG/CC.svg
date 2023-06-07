@@ -19,7 +19,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="CC">
-            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
             <path d="M4,6 C2.8954305,6 2,5.1045695 2,4 C2,2.8954305 2.8954305,2 4,2 C5.1045695,2 6,2.8954305 6,4 C6,5.1045695 5.1045695,6 4,6 Z M4,4 C4.2082035,4 3.83990355,5.05443624 4,5 C4.26457858,4.91003759 5,3.67204063 5,3.5 C5,3.22385763 4.55228475,3 4,3 C3.44771525,3 3,3.22385763 3,3.5 C3,3.77614237 3.44771525,4 4,4 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
             <polygon id="Star-2" fill="url(#linearGradient-3)" points="16 13 15.2928932 13.2071068 15.5 12.5 15.2928932 11.7928932 16 12 16.7071068 11.7928932 16.5 12.5 16.7071068 13.2071068"></polygon>

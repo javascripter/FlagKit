@@ -19,10 +19,10 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="IQ">
-            <rect id="FlagBackground"  x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="5"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="10" width="21" height="5"></rect>
-            <rect id="Rectangle-2"  x="0" y="5" width="21" height="5"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="5" width="21" height="5"></rect>
             <path d="M14,6.25577831 C14,6.11451585 14.0922852,6.04614258 14.2319336,6.1159668 L14.7680664,6.3840332 C14.8961598,6.4480799 15,6.60742188 15,6.74884939 L15,8.75115061 C15,8.88858633 14.8929825,9 14.7476578,9 L14.2523422,9 C14.1129775,9 14,8.88605976 14,8.74422169 L14,6.25577831 Z" id="Rectangle-213" fill="#0F7A40"></path>
             <path d="M8,6.25577831 C8,6.11451585 8.09228516,6.04614258 8.23193359,6.1159668 L8.76806641,6.3840332 C8.89615979,6.4480799 9,6.60742188 9,6.74884939 L9,8.75115061 C9,8.88858633 8.89298248,9 8.74765778,9 L8.25234222,9 C8.11297746,9 8,8.88605976 8,8.74422169 L8,6.25577831 Z" id="Rectangle-213" fill="#0F7A40"></path>
             <path d="M12,6.74884939 C12,6.61141367 12.0922852,6.45385742 12.2319336,6.3840332 L12.7680664,6.1159668 C12.8961598,6.0519201 13,6.11394024 13,6.25577831 L13,8.74422169 C13,8.88548415 12.8929825,9 12.7476578,9 L12.2523422,9 C12.1129775,9 12,8.89257812 12,8.75115061 L12,6.74884939 Z" id="Rectangle-213" fill="#0F7A40"></path>
