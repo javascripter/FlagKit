@@ -27,7 +27,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="VA">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2-Copy-2" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="10" y="0" width="11" height="15"></rect>
             <path d="M18.6819805,8.02512627 C19.267767,7.43933983 19.267767,6.48959236 18.6819805,5.90380592 C18.0961941,5.31801948 17.1464466,5.31801948 16.5606602,5.90380592 C16.0988421,6.36562402 16.0011088,7.05365542 16.2674604,7.61121929 L14.0857864,9.79289322 L13.732233,9.43933983 L13.3786797,9.08578644 L12.6715729,9.79289322 L13.0251263,10.1464466 L13.732233,10.8535534 L14.0857864,11.2071068 L14.4393398,10.8535534 L16.9745671,8.31832607 C17.532131,8.58467763 18.2201624,8.48694436 18.6819805,8.02512627 Z" id="Combined-Shape" fill="url(#linearGradient-3)" transform="translate(15.896447, 8.335786) scale(1, -1) translate(-15.896447, -8.335786) "></path>

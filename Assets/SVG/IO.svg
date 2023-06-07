@@ -19,7 +19,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="IO">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" x="0" y="0" width="21" height="15"></rect>
             <g id="Group-2" transform="translate(-2.160000, -0.910000)">
                 <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="2.16370553" y="0.907737788" width="21" height="15"></rect>
                 <path d="M5.15999997,4.13996749 L0.808371262,0.410000026 L2.82023249,0.410000026 L6.32023249,2.91000003 L7.01660185,2.91000003 L11.66,0.00787620547 L11.66,1.16000003 C11.66,1.46250925 11.4930855,1.78653358 11.2421597,1.96576632 L8.15999997,4.16730897 L8.15999997,4.68003256 L11.2972205,7.3690787 C11.7593426,7.76518337 11.5010289,8.41000003 10.91,8.41000003 C10.6647861,8.41000003 10.3652751,8.31393405 10.1609215,8.16796721 L6.99976744,5.91000003 L6.30339808,5.91000003 L1.65999997,8.81212385 L1.65999997,7.15269108 L5.15999997,4.65269108 L5.15999997,4.13996749 Z" id="Rectangle-36" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>

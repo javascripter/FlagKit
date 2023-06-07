@@ -20,7 +20,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="BR">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" x="0" y="0" width="21" height="15"></rect>
             <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
             <path d="M2.42151632,7.77274586 C2.18871929,7.62211248 2.19350487,7.37479097 2.42151632,7.22725414 L10.0784837,2.27274586 C10.3112807,2.12211248 10.6935049,2.12520903 10.9215163,2.27274586 L18.5784837,7.22725414 C18.8112807,7.37788752 18.8064951,7.62520903 18.5784837,7.77274586 L10.9215163,12.7272541 C10.6887193,12.8778875 10.3064951,12.874791 10.0784837,12.7272541 L2.42151632,7.77274586 Z" id="Combined-Shape" fill="#FDD216"></path>
             <g id="Oval-2" transform="translate(7.000000, 4.000000)">

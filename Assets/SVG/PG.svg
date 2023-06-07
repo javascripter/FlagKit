@@ -23,7 +23,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="PG">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" x="0" y="0" width="21" height="15"></rect>
             <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="21" height="15"></rect>
             <polygon id="Mask" fill="url(#linearGradient-3)" points="0 0 21 0 21 15"></polygon>
             <polygon id="Star-2" fill="url(#linearGradient-1)" points="5 12.5 4.29289322 12.7071068 4.5 12 4.29289322 11.2928932 5 11.5 5.70710678 11.2928932 5.5 12 5.70710678 12.7071068"></polygon>

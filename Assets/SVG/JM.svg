@@ -23,7 +23,7 @@
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="JM">
-            <rect id="FlagBackground" fill="url(#linearGradient-1)" x="0" y="0" width="21" height="15"></rect>
+            <rect id="FlagBackground" x="0" y="0" width="21" height="15"></rect>
             <rect id="Mask-Copy" fill="url(#linearGradient-2)" x="0.000237781813" y="-0.00266538434" width="21" height="15"></rect>
             <polygon id="Rectangle-253" fill="url(#linearGradient-3)" points="0.000237781813 -0.00266538434 9.00023778 7.49733462 0.000237781813 14.9973346"></polygon>
             <polygon id="Rectangle-253" fill="url(#linearGradient-3)" transform="translate(16.500238, 7.497335) scale(-1, 1) translate(-16.500238, -7.497335) " points="12.0002378 -0.00266538434 21.0002378 7.49733462 12.0002378 14.9973346"></polygon>
